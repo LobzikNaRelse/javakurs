@@ -30,6 +30,10 @@ public class Main {
 
 
         // Ветвление
+        // после git status есть строка On branch master // branch - ветка с англ master значит что основная ветка, от нее
+        // можно делать ответвления и слияния
+        // git branch reg // создать ветку с именем reg, только создает
+        // git checkout reg // перейти на ветку reg
         // //
     }
 }
