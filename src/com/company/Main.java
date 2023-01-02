@@ -30,6 +30,6 @@ public class Main {
 
 
         // ¬етвление
-        // //
+        // git checkout master // вернутьс€ на основную ветку
     }
 }
