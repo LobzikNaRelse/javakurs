@@ -47,6 +47,7 @@ public class Main {
         // origin можно переписать, это название удаленного для нас, для команд
         // git remote remove origin // от какого удаленного репозитория отключиться
         // git push -u origin main // выгружает в удаленный репозиторий origin (название) ветку main (название)
+        // git push -f origin main // так правильнее -u дерьма
         // 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 // токен для авторизации
         // профиль гид хаб -> setting -> developer setting -> Personal access tokens
         // выбрать сколько дней живет, в заметки terminal, и что будет использоваться для repo (галочка)
